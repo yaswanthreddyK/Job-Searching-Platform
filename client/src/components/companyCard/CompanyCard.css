@@ -1,0 +1,8 @@
+.company-card-container{
+    margin-bottom: 0.5em !important;
+    box-shadow: 0 0 2px -1px;
+}
+
+.company-card-container .MuiPaper-root{
+    box-shadow: 0 0 !important;
+}
